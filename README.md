@@ -2,7 +2,7 @@
 - 👀 I’m interested in cybersec and blockchain
 - 🌱 I’m currently learning pyhton
 - 💞️ I’m looking to collaborate on anyone
-- 📫 How to reach me instagram:savashyldz mail:sametyildiz@hacettepe.edu.tr
+- 📫 How to reach me https://www.instagram.com/savashyldz/ and sametyildiz@hacettepe.edu.tr
 
 <!---
 SavashYildiz/SavashYildiz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
